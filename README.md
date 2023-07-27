@@ -1,7 +1,8 @@
 # Research-on-Diabetes-self-care-
 We took a survey from social media to collect data of Diabetes patients, processed the data and analyzed on SPSS software
 
-Introduction
+INTRODUCTION
+
 Diabetes is a prevalent disease that affects a large number of people worldwide. According to the 
 World Health Organization, approximately 422 million people were living with diabetes in 2014, 
 and this number is projected to increase to 629 million by 2045. This highlights the importance of 
@@ -14,6 +15,7 @@ activity, managing stress, and regular visits to a healthcare provider for check
 goal is to improve the individual's overall quality of life and to reduce the risk of developing serious 
 health problems as a result of diabetes. 
 PROPOSED METHODOLOGY
+
 • This project aims to evaluate the level of awareness and understanding among individuals 
 with diabetes about their condition with the help of the survey conducted.
 • The survey consists of responses over various categories of diabetic individuals. So the 
