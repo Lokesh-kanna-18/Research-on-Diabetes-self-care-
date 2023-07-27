@@ -14,6 +14,8 @@ monitoring blood sugar levels, taking medication as prescribed, healthy eating, 
 activity, managing stress, and regular visits to a healthcare provider for check-ups. The ultimate 
 goal is to improve the individual's overall quality of life and to reduce the risk of developing serious 
 health problems as a result of diabetes. 
+
+
 PROPOSED METHODOLOGY
 
 • This project aims to evaluate the level of awareness and understanding among individuals 
