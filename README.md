@@ -16,6 +16,7 @@ goal is to improve the individual's overall quality of life and to reduce the ri
 health problems as a result of diabetes. 
 
 
+
 PROPOSED METHODOLOGY
 
 • This project aims to evaluate the level of awareness and understanding among individuals 
